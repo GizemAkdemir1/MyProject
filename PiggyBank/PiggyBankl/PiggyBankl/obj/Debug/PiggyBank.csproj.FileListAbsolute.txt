@@ -1,0 +1,10 @@
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBankl.KumbaraFrm.resources
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBankl.Properties.Resources.resources
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBank.csproj.GenerateResource.Cache
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\bin\Debug\PiggyBankl.exe.config
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\bin\Debug\PiggyBankl.exe
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\bin\Debug\PiggyBankl.pdb
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBankl.exe
+C:\Users\gakdemir\Desktop\PiggyBank\PiggyBankl\PiggyBankl\obj\Debug\PiggyBankl.pdb
